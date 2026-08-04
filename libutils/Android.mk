@@ -29,6 +29,7 @@ commonSources:= \
 	StopWatch.cpp \
 	String8.cpp \
 	String16.cpp \
+	StrongPointer.cpp \
 	SystemClock.cpp \
 	Threads.cpp \
 	Timers.cpp \
